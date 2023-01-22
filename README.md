@@ -1,3 +1,8 @@
+# Ce projet est un fork d'un projet lié au cours `L'essentiel de Vue.js 3` Sur LinkedIn Learning.
+Ici une version a jour (mise a jour des dependances). 
+
+=========================================================================================================================
+
 # L'essentiel de Vue.js 3
 
 Ce dossier Repository est lié au cours `L'essentiel de Vue.js 3`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
